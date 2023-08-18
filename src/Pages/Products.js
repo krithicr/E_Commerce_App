@@ -8,7 +8,7 @@ import Divider from "@mui/material/Divider";
 import Typography from "@mui/material/Typography";
 import { Paper } from "@mui/material";
 import { ShopContext } from "../Context/ShopContext";
-import Data from "../ClothsData.json";
+
 
 export default function Products({
   id,
@@ -18,7 +18,7 @@ export default function Products({
   productImg,
 }) {
   const { addToCart, cartProducts, addSize } = React.useContext(ShopContext);
-  // const { size } = Data;
+  
 
   React.useEffect(() => {
     console.log(size);

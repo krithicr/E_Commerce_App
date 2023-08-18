@@ -7,9 +7,7 @@ import Typography from "@mui/material/Typography";
 import Menu from "@mui/material/Menu";
 import MenuIcon from "@mui/icons-material/Menu";
 import Container from "@mui/material/Container";
-import Avatar from "@mui/material/Avatar";
 import Button from "@mui/material/Button";
-import Tooltip from "@mui/material/Tooltip";
 import MenuItem from "@mui/material/MenuItem";
 import BoyIcon from "@mui/icons-material/Boy";
 import { useNavigate } from "react-router-dom";
@@ -17,25 +15,23 @@ import { useNavigate } from "react-router-dom";
 const pages = ["T-Shirts", "Shirts", "Joggers"];
 const settings = ["Profile", "Account", "Cart", "Logout"];
 
-function Header({ size }) {
+function Header() {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
-  const [anchorElUser, setAnchorElUser] = React.useState(null);
+  // const [anchorElUser, setAnchorElUser] = React.useState(null);
   const navigate = useNavigate();
 
   const handleOpenNavMenu = (event) => {
     setAnchorElNav(event.currentTarget);
   };
-  const handleOpenUserMenu = (event) => {
-    setAnchorElUser(event.currentTarget);
-  };
+  // const handleOpenUserMenu = (event) => {
+  //   setAnchorElUser(event.currentTarget);
+  // };
 
   const handleCloseNavMenu = () => {
     setAnchorElNav(null);
   };
 
-  const handleCloseUserMenu = () => {
-    setAnchorElUser(null);
-  };
+
 
   return (
     <AppBar className="header" position="sticky">
@@ -127,21 +123,21 @@ function Header({ size }) {
           <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
             <Button
               onClick={() => navigate("/")}
-              // onClick={handleCloseNavMenu}
+              
               sx={{ my: 2, color: "white", display: "block" }}
             >
               {pages[0]}
             </Button>
             <Button
               onClick={() => navigate("/shirts")}
-              // onClick={handleCloseNavMenu}
+              
               sx={{ my: 2, color: "white", display: "block" }}
             >
               {pages[1]}
             </Button>
             <Button
               onClick={() => navigate("/joggers")}
-              // onClick={handleCloseNavMenu}
+              
               sx={{ my: 2, color: "white", display: "block" }}
             >
               {pages[2]}
