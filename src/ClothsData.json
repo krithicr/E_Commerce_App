@@ -1,0 +1,137 @@
+[
+    {
+      "id":1,
+        "type" : "tshirts",
+        "size":"S",
+      "productName": "Cotton Crew Neck Tshirt",
+      "productPrice": 399,
+      "productImg":
+        "https://images.unsplash.com/photo-1571455786673-9d9d6c194f90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id":2,
+        "type" : "tshirts",
+      "size":"S",
+        "productName": " V Neck Tshirt",
+      "productPrice": 450,
+      "productImg":
+        "https://images.unsplash.com/photo-1503341338985-c0477be52513?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id":3,
+      "type" : "tshirts",
+      "size":"S",
+      "productName": " Crew Neck Tshirt",
+      "productPrice": 250,
+      "productImg":
+        "https://images.unsplash.com/photo-1600585983192-1f30d0b670c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+    },
+    {
+      "id":4,
+        "type" : "tshirts",
+      "size":"S",
+        "productName": "Cotton Crew Neck Tshirt",
+      "productPrice": 399,
+      "productImg":
+        "https://images.unsplash.com/photo-1553754538-466add009c05?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=690&q=80"
+    },
+    {
+      "id":5,
+        "type" : "tshirts",
+      "size":"S",
+        "productName": " V Neck Tshirt",
+      "productPrice": 450,
+      "productImg":
+        "https://images.unsplash.com/photo-1610502778270-c5c6f4c7d575?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=867&q=80"
+    },
+    {
+      "id":6,
+        "type" : "tshirts",
+      "size":"S",
+        "productName": " V Neck Blue Tshirt",
+      "productPrice": 450,
+      "productImg":
+        "https://images.unsplash.com/photo-1610502778270-c5c6f4c7d575?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=867&q=80"
+    },
+    {
+      "id":7,
+        "type" : "tshirts",
+      "size":"S",
+        "productName": " V Neck Tshirt",
+      "productPrice": 450,
+      "productImg":
+        "https://images.unsplash.com/photo-1610502778270-c5c6f4c7d575?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=867&q=80"
+    },
+    {
+      "id":8,
+        "type" : "shirts",
+      "size":"S",
+        "productName": " Green shirt",
+      "productPrice": 650,
+      "productImg":
+        "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id":9,
+        "type" : "shirts",
+      "size":"S",
+        "productName": " Black shirt",
+      "productPrice": 250,
+      "productImg":
+        "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id":10,
+        "type" : "shirts",
+      "size":"S",
+        "productName": " Blue shirt",
+      "productPrice": 290,
+      "productImg":
+        "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id":11,
+        "type" : "shirts",
+      "size":"S",
+        "productName": " White shirt",
+      "productPrice": 290,
+      "productImg":
+        "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id":12,
+        "type" : "shirts",
+      "size":"S",
+        "productName": " Grey shirt",
+      "productPrice": 290,
+      "productImg":
+        "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id":13,
+      "type" : "joggers",
+    "size":"S",
+      "productName": " black joggers",
+    "productPrice": 250,
+    "productImg":
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+  },{
+    "id":14,
+    "type" : "joggers",
+    "size":"S",
+    "productName": " White joggers",
+    "productPrice": 250,
+    "productImg":
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+  "id":15,
+  "type" : "joggers",
+  "size":"S",
+  "productName": " Green joggers",
+  "productPrice": 250,
+  "productImg":
+    "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+  }
+]
+  
